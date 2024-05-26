@@ -1,0 +1,16 @@
+# Project exclude paths
+/cloud-api-commons/target/
+/cloud-consumer-feign-order80/target/
+/cloud-consumer-order80/target/
+/cloud-gateway9527/target/
+/cloud-provider-payment8001/target/
+/cloud-provider-payment8002/target/
+/cloudalibaba-config-nacos-client3377/target/
+/cloudalibaba-consumer-nacos-order83/target/
+/cloudalibaba-provider-payment9001/target/
+/cloudalibaba-sentinel-gateway9528/target/
+/cloudalibaba-sentinel-service8401/target/
+/mybatis_generator2024/target/
+/seata-account-service2003/target/
+/seata-order-service2001/target/
+/seata-storage-service2022/target/
